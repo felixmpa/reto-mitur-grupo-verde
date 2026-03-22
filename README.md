@@ -1,6 +1,6 @@
-# Asignacion Individual - Modelado Predictivo con Datos Abiertos
+# Predicción de Turismo por Estado de Residencia (Grupo Verde)
 
-Proyecto para la asignacion individual de mineria de datos.
+**Objetivo:** construir un modelo de regresión para predecir la cantidad de turistas por país/estado de residencia y tipo de visitante (Dominicano/Extranjero), cumpliendo todas las etapas metodológicas: exploración, preprocesamiento, entrenamiento, evaluación, validación y predicción en nuevos registros.
 
 ## Requisitos
 
